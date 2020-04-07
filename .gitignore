@@ -1,0 +1,63 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Aa]sset[Hh]unter[Bb]ackup/
+/[Aa]ssets/[Aa]sset[Ss]tore[Tt]ools*
+[Cc]atch/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Bb]uilds/
+[Ll]ibrary/*
+sysinfo.txt
+*.stackdump
+#*.unitypackage
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+*.pidb.meta
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.consulo/
+/*.tmp
+/*.svd
+ 
+# ===================== #
+# Third party generated #
+# ===================== #
+*.apk
+*.blend1
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+[Cc]orridor/[Ll]ibrary/[Ss]hader[Cc]ache/
+[Cc]orridor/[Ll]ibrary/metadata/
+
+# =======#
+# Custom #
+# ====== #
+![Bb][Kk]up/*.unitypackage
+![Aa]ssets[Bb]akup/*.unitypackage
+[Aa]ssets/[Ss]treaming[Aa]ssets/*.prefab
+[Aa]ssets/[Ss]treaming[Aa]ssets/*.meta
+[Aa]ssets/[Ll]udiq/[Bb]olt.[Ff]low/[Gg]enerated/[Uu]nit[Oo]ptions.db
+[Aa]ssets/[Ll]udiq/[Bb]olt.[Ff]low/[Gg]enerated/[Uu]nit[Oo]ptions.db.meta
+![Aa]ssets/_[Mm][Aa][Ii][Nn]/[Ii]mages/[Mm]arkers/[Mm]arkers.unitypackage
